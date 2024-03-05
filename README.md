@@ -1,22 +1,20 @@
-
 <h1 align="center">
   <br>
-  <b>Yuzu</b>
+  <b>Y-Emu</b>
   <br>
 </h1>
 
-<h4 align="center">Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
+<h4 align="center">Switch emulator.
 <br>
 Project is no longer in active Development for either Windows, Linux or Android.
 </h4>
 
 
-## Download
+## Downloads
+The [Nightly](https://github.com/kinderdat/Y-Emulator/releases/tag/EarlyAccess) Early Access
 
-You can download Latest & previous releases here -> [downloads](https://github.com/kinderdat/Yuzu/releases).
-
-
+The [Canary](https://github.com/kinderdat/Y-Emulator/releases/tag/canary) Mainline 
 
 ## License
 
-yuzu is licensed under the GPLv3
+Project is licensed under the GPLv3
