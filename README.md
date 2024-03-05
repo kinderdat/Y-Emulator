@@ -7,7 +7,7 @@
 
 <h4 align="center">Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
 <br>
-and is no longer in  active Development for either Windows, Linux or Android.
+Project is no longer in active Development for either Windows, Linux or Android.
 </h4>
 
 
