@@ -6,7 +6,7 @@
 
 <h4 align="center">Switch emulator.
 <br>
-Project is no longer in active Development for either Windows, Linux or Android.
+Project is W.I.P for Windows, Linux or Android.
 </h4>
 
 
